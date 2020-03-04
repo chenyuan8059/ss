@@ -67,7 +67,7 @@
         <pf4j-version>2.6.0</pf4j-version>
         <pf4j-update.version>2.0.0</pf4j-update.version>
         <spring-version>5.1.7.RELEASE</spring-version>
-        <jackson.version>2.9.9</jackson.version>
+        <jackson.version>2.10.3</jackson.version>
 
         <javax.servlet-api.version>4.0.1</javax.servlet-api.version>
         <junit.version>4.11</junit.version>
